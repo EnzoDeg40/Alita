@@ -1,0 +1,4 @@
+vosk
+playsound==1.2.2
+gtts
+pyaudio
