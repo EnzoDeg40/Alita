@@ -35,4 +35,5 @@ python main.py
 ## Roadmap
 - [x] Voice recognition
 - [ ] Connect to an AI like [alpaca_lora](https://github.com/tloen/alpaca-lora)
+- [ ] Possibility to use My AI (snapchat) to get faster response
 - [ ] Improve text to speech
