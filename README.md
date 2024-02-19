@@ -34,5 +34,5 @@ python main.py
 
 ## Roadmap
 - [x] Voice recognition
-- [ ] Connect to an AI like [alpaca_lora](https://github.com/tloen/alpaca-lora)
+- [ ] Connect to an AI like [mistral](https://mistral.ai/)
 - [ ] Improve text to speech
